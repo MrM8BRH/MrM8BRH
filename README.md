@@ -35,7 +35,7 @@ I am a Cyber Security Enginner from Palestine 🇵🇸.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Skills :
 <div>
   
 <div>
