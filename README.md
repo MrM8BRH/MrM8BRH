@@ -21,7 +21,7 @@
 
 ### About Me :
 
-I am a Cyber Security Enginner from Palestine 🇵🇸.
+I am a Cyber Security Engineer from Palestine 🇵🇸.
 
 - 🌱 I’m currently learning Malware Analysis and Cyber Threat Intelligence
 
