@@ -13,9 +13,6 @@
   </a>
 </div>
 
-<div id="count" align="center">
-<img src="https://komarev.com/ghpvc/?username=MrM8BRH&style=flat-square&color=blue" alt=""/>
-</div>
 
 ---
 
