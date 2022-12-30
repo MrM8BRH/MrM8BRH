@@ -26,10 +26,6 @@ I am a Cyber Security Engineer from Palestine 🇵🇸.
 
 - 💬 Ask me about OSINT/PenTesting from MrM8BRH@protonmail.ch
 
-- 🌐 You can see my account on Start.me through [here](https://start.me/u/GEAY5K/mrm8brh)
-
-- 🃏 Join our discord server ([Pal Cyber Sec Community](https://discord.gg/Nt87NHCmjZ))
-
 ---
 
 ### :hammer_and_wrench: Skills :
