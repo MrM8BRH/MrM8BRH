@@ -1,6 +1,7 @@
 
 <div id="header" align="center">
-  <img src="https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif" width="450"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffree4kwallpapers.com%2Fuploads%2Foriginals%2F2020%2F04%2F05%2Fanonymous-wallpaper.jpg&f=1&nofb=1&ipt=292b7ad637feaa6672636dbccbe74062d9e17f6b6c2809bf6fab1271f87e7d87&ipo=images" width="450"/>
+  
 </div>
 
 <div id="badges" align="center">
