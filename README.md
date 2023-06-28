@@ -25,7 +25,7 @@ I am a Cyber Security Engineer from Palestine 🇵🇸.
 
 - 🤔 My interest lies in Vulnerability Assessment, Penetration Testing and OSINT
 
-- 💬 Ask me about OSINT/PenTesting from MrM8BRH@protonmail.ch
+- 💬  Join Pal Cyber Sec Community on Discord to connect with cybersecurity enthusiasts. [Join Now!](https://discord.gg/5cXjXYbZRf)
 
 ---
 
