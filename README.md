@@ -16,4 +16,5 @@
   <a href="https://twitter.com/m8_brh">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+<p align="center">“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</p>
 </div>
