@@ -1,5 +1,5 @@
 <p align="center">Muslim | Cyber Security Engineer | Penetration Tester | Red Team | OSINT | CTI | SIEM | SOC | PAM | EDR | Incident Responder | Threat Hunter</p>
-<p align="center">Stand with Palestine</p>
+<p align="center">I Stand with Palestine 🇵🇸</p>
 <p align="center">#FOSS</p>
 <p align="center">#زكاة_العلم_نشره</p>
 <p align="center">اللهم صل على محمد وعلى آل محمد كما صليت على إبراهيم وعلى آل إبراهيم وبارك على محمد وعلى آل محمد كما باركت على إبراهيم وعلى آل إبراهيم في العالمين إنك حميد مجيد</p>
