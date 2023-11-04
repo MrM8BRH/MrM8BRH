@@ -9,12 +9,21 @@
   <a href="https://twitter.com/m8_brh">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=MrM8BRH)
+  
+  [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
+  
 <p align="center">“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</p>
 </div>
 <p align="center">#زكاة_العلم_نشره</p>
 <p align="center">اللهم صل على محمد وعلى آل محمد</p>
 <div id="header" align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fteepublic%2Fimage%2Fprivate%2Fs--wLJltuBz--%2Ft_Preview%2Fb_rgb%3A000000%2Cc_limit%2Cf_auto%2Ch_630%2Cq_90%2Cw_630%2Fv1590437467%2Fproduction%2Fdesigns%2F10586517_0.jpg&f=1&nofb=1&ipt=35ce6e0785de71a920bfa78c33729f8dbf6da47370bf4ac1829c1f440ef54933&ipo=images" style="width:250px;height:200px">
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MrM8BRH&show_icons=true&theme=dark)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrM8BRH&theme=blue-green)
+
 </div>
 
 Digital Horizons: Navigating IT, Arabic Resources, and Gaming:
