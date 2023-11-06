@@ -10,8 +10,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=MrM8BRH)
-  
   [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
   
 <p align="center">“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</p>
