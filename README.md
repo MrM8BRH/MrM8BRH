@@ -21,12 +21,3 @@ Digital Horizons: Navigating IT, Arabic Resources, and Gaming:
 1. [IT & Cybersecurity](https://start.me/p/KMqznE/it-cyber-security)
 2. [Arabic Resources](https://start.me/p/KMqLLz/arabic)
 3. [Gaming Hub](https://start.me/p/aLRdGN/gaming)
-
-
-#### About Me:
-
-I am Ismael Jabr, a Palestinian Muslim working as a cybersecurity engineer. I was born on October 24, 1999.
-
-Gaming has been a passion of mine since 2010, and I've used the alias "MrM8BRH" across all the games I've played (which translates to "Mr. Cemetery" :(- ). My journey in cybersecurity began in 2014, and in 2017, I enrolled at An-Najah University as a student specializing in Computer Networks and Information Security.
-
-[Linktree](https://linktr.ee/mrm8brh)
