@@ -20,4 +20,5 @@
 - [BDS Movement - What to Boycott](https://bdsmovement.net/get-involved/what-to-boycott)
 - [Qate3 Israel](https://www.qate3-israel.com/)
 - [BDnaash](https://bdnaash.com/)
+- [Boycott Israel Tech](https://boycottisraelitech.com/)
 - [List of Brands Supporting Israel](https://theislamicinformation.com/news/list-of-brands-supporting-israel/)
