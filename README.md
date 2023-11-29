@@ -22,3 +22,4 @@
 - [BDnaash](https://bdnaash.com/)
 - [Boycott Israel Tech](https://boycottisraelitech.com/)
 - [List of Brands Supporting Israel](https://theislamicinformation.com/news/list-of-brands-supporting-israel/)
+- [List of Companies That Have Condemned Hamas](https://som.yale.edu/story/2023/list-companies-have-condemned-hamas-terrorist-attack-israel)
