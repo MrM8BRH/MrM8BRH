@@ -39,11 +39,11 @@
 | Cybersecurity Resources and Learning Journey | [github.com](https://github.com/MrM8BRH/CRLJ)                               |
 | Super Library                      | [github.com](https://github.com/MrM8BRH/SuperLibrary)                                 |
 | Super Repository                   | [github.com](https://github.com/MrM8BRH/SuperRepository)                              |
-| Privacy Security FOSS Resources    | [github.com](https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources)              |
 | CyberSecurity Conferences          | [github.com](https://github.com/MrM8BRH/CyberSecurity_Conferences)                    |
 | Splunk                             | [github.com](https://github.com/MrM8BRH/Splunk)                                       |
 | Interview Questions                | [github.com](https://github.com/MrM8BRH/Interview-Questions)                          |
 | IT & Cyber Security                | [start.me](https://start.me/p/KMqznE/it-cyber-security)                               |
+| Privacy Security FOSS Resources    | [start.me](https://start.me/p/ogxO2x/privacy-security-foss-resources)                 |
 | Islamic Resources                  | [start.me](https://start.me/p/gG7rbp/islamic-resources)                               |
 | Arabic                             | [start.me](https://start.me/p/KMqLLz/arabic)                                          |
 | Gaming                             | [start.me](https://start.me/p/aLRdGN/gaming)                                          |
