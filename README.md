@@ -44,7 +44,6 @@
 | Interview Questions                | [GitHub](https://github.com/MrM8BRH/Interview-Questions)                          |
 | IT & Cyber Security                | [Start Page](https://start.me/p/KMqznE/it-cyber-security)                               |
 | Privacy Security FOSS Resources    | [Start Page](https://start.me/p/ogxO2x/privacy-security-foss-resources)                 |
-| PalCyberSec Community (EN & AR)    | [Discord](https://discord.gg/5cXjXYbZRf)                                              |
 | PalCyberSec Community (AR)         | [Telegram](https://t.me/palcyberseccommunity)                                         |
 | Islamic Resources                  | [Start Page](https://start.me/p/gG7rbp/islamic-resources)                               |
 | Arabic                             | [Start Page](https://start.me/p/KMqLLz/arabic)                                          |
