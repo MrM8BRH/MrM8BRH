@@ -35,17 +35,19 @@
 
 | Collection                         | Link                                                                                  |
 |------------------------------------|---------------------------------------------------------------------------------------|
-| Palestine Love                     | [palestinelove.org](https://palestinelove.org/)                                       |
-| Cybersecurity Resources and Learning Journey | [github.com](https://github.com/MrM8BRH/CRLJ)                               |
-| Super Library                      | [github.com](https://github.com/MrM8BRH/SuperLibrary)                                 |
-| Super Repository                   | [github.com](https://github.com/MrM8BRH/SuperRepository)                              |
-| CyberSecurity Conferences          | [github.com](https://github.com/MrM8BRH/CyberSecurity_Conferences)                    |
-| Splunk                             | [github.com](https://github.com/MrM8BRH/Splunk)                                       |
-| Interview Questions                | [github.com](https://github.com/MrM8BRH/Interview-Questions)                          |
-| IT & Cyber Security                | [start.me](https://start.me/p/KMqznE/it-cyber-security)                               |
-| Privacy Security FOSS Resources    | [start.me](https://start.me/p/ogxO2x/privacy-security-foss-resources)                 |
-| Islamic Resources                  | [start.me](https://start.me/p/gG7rbp/islamic-resources)                               |
-| Arabic                             | [start.me](https://start.me/p/KMqLLz/arabic)                                          |
-| Gaming                             | [start.me](https://start.me/p/aLRdGN/gaming)                                          |
+| Palestine Love                     | [PalestineLove](https://palestinelove.org/)                                       |
+| Cybersecurity Resources and Learning Journey | [GitHub](https://github.com/MrM8BRH/CRLJ)                               |
+| Super Library                      | [GitHub](https://github.com/MrM8BRH/SuperLibrary)                                 |
+| Super Repository                   | [GitHub](https://github.com/MrM8BRH/SuperRepository)                              |
+| CyberSecurity Conferences          | [GitHub](https://github.com/MrM8BRH/CyberSecurity_Conferences)                    |
+| Splunk                             | [GitHub](https://github.com/MrM8BRH/Splunk)                                       |
+| Interview Questions                | [GitHub](https://github.com/MrM8BRH/Interview-Questions)                          |
+| IT & Cyber Security                | [Start Page](https://start.me/p/KMqznE/it-cyber-security)                               |
+| Privacy Security FOSS Resources    | [Start Page](https://start.me/p/ogxO2x/privacy-security-foss-resources)                 |
+| PalCyberSec Community (EN & AR)    | [Discord](https://discord.gg/5cXjXYbZRf)                                              |
+| PalCyberSec Community (AR)         | [Telegram](https://t.me/palcyberseccommunity)                                         |
+| Islamic Resources                  | [Start Page](https://start.me/p/gG7rbp/islamic-resources)                               |
+| Arabic                             | [Start Page](https://start.me/p/KMqLLz/arabic)                                          |
+| Gaming                             | [Start Page](https://start.me/p/aLRdGN/gaming)                                          |
 
 </div>
