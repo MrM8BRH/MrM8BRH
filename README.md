@@ -1,6 +1,6 @@
 <p align="center">Muslim | Cyber Security Engineer | Penetration Tester | Red Team | OSINT | CTI | SIEM | SOC | PAM | EDR | Incident Responder | Threat Hunter</p>
 <div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/6800baa2-30d9-43db-8b69-30ea09100806" width="450"/>
+  <img src="https://github.com/user-attachments/assets/24268a88-7fea-44af-9ab1-fcec6be936db" width="450"/>
   <br>
 <a href="https://techforpalestine.org/">
 <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg">
