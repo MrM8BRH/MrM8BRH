@@ -1,4 +1,4 @@
-<p align="center">Muslim | Cyber Security Engineer | Penetration Tester | Red Team | OSINT | CTI | SIEM | SOC | PAM | EDR | Incident Responder | Threat Hunter</p>
+<p align="center">Muslim | Cyber Security Engineer | PalCyberSec Community Co-Founder | Global Gray Hat Team Admin | Penetration Tester | Red Team | OSINT | CTI | SIEM | SOC | PAM | EDR | Incident Responder | Threat Hunter</p>
 <div id="header" align="center">
   <img src="https://github.com/user-attachments/assets/24268a88-7fea-44af-9ab1-fcec6be936db" width="450"/>
   <br>
