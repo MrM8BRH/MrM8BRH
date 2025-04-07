@@ -27,7 +27,7 @@
 
 | Collection                         | Link                                                                              |
 |------------------------------------|-----------------------------------------------------------------------------------|
-| Palestine Love                     | [PalestineLove](https://palestinelove.org/)                                       |
+| Databases for Palestine            | [Website](https://databasesforpalestine.org/)                                     |
 | Cybersecurity Resources and Learning Journey | [GitHub](https://github.com/MrM8BRH/CRLJ)                               |
 | Super Library                      | [GitHub](https://github.com/MrM8BRH/SuperLibrary)                                 |
 | Super Repository                   | [GitHub](https://github.com/MrM8BRH/SuperRepository)                              |
