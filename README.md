@@ -23,22 +23,21 @@
 
 <div align="center">
 
-### My Collections
-
-| Collection                         | Link                                                                              |
-|------------------------------------|-----------------------------------------------------------------------------------|
-| Databases for Palestine            | [Website](https://databasesforpalestine.org/)                                     |
-| Cybersecurity Resources and Learning Journey | [GitHub](https://github.com/MrM8BRH/CRLJ)                               |
-| Super Library                      | [GitHub](https://github.com/MrM8BRH/SuperLibrary)                                 |
-| Super Repository                   | [GitHub](https://github.com/MrM8BRH/SuperRepository)                              |
-| CyberSecurity Conferences          | [GitHub](https://github.com/MrM8BRH/CyberSecurity_Conferences)                    |
-| Splunk                             | [GitHub](https://github.com/MrM8BRH/Splunk)                                       |
-| Interview Questions                | [GitHub](https://github.com/MrM8BRH/Interview-Questions)                          |
-| IT & Cyber Security                | [Start Page](https://start.me/p/KMqznE/it-cyber-security)                         |
-| Privacy Security FOSS Resources    | [Start Page](https://start.me/p/Kgj6nq/privacy-security-foss-resources)           |
-| PalCyberSec Community (AR)         | [Telegram](https://t.me/palcyberseccommunity)                                     |
-| Islamic Resources                  | [Start Page](https://start.me/p/gG7rbp/islamic-resources)                         |
-| Arabic                             | [Start Page](https://start.me/p/KMqLLz/arabic)                                    |
+| Collection                         | Type         | Link                                                                              | Status     |
+|------------------------------------|--------------|-----------------------------------------------------------------------------------|------------|
+| Databases for Palestine            | Website      | [Link](https://databasesforpalestine.org/)                                        | Active ✅  |
+| Cybersecurity Resources & Learning | GitHub       | [Link](https://github.com/MrM8BRH/CRLJ)                                           | Active ✅  |
+| Super Library                      | GitHub       | [Link](https://github.com/MrM8BRH/SuperLibrary)                                   | Active ✅  |
+| Defensive Security Hub             | GitHub       | [Link](https://github.com/MrM8BRH/Defensive-Security-Hub)                         | Active ✅  |
+| Splunk Resources                   | GitHub       | [Link](https://github.com/MrM8BRH/Splunk)                                         | Active ✅  |
+| CyberSecurity Conferences          | GitHub       | [Link](https://github.com/MrM8BRH/CyberSecurity_Conferences)                      | Active ✅  |
+| IT & Cyber Security                | Start.me Page | [Link](https://start.me/p/KMqznE/it-cyber-security)                              | Active ✅  |
+| Privacy/Security/FOSS Resources    | Start.me Page | [Link](https://start.me/p/Kgj6nq/privacy-security-foss-resources)                | Active ✅  |
+| Islamic Resources                  | Start.me Page | [Link](https://start.me/p/gG7rbp/islamic-resources)                              | Active ✅  |
+| Arabic Resources                   | Start.me Page | [Link](https://start.me/p/KMqLLz/arabic)                                         | Active ✅  |
+| PalCyberSec Community (Arabic)     | Telegram Channel | [Link](https://t.me/palcyberseccommunity)                                     | Active ✅  |
+| Super Repository                   | GitHub (🔒)  | [Link](https://github.com/MrM8BRH/SuperRepository)                                | Archived ❌ |
+| Interview Questions                | GitHub (🔒)  | [Link](https://github.com/MrM8BRH/Interview-Questions)                            | Archived ❌ |
 
 </div>
 
