@@ -1,4 +1,4 @@
-<p align="center">Muslim | SOC Team Lead | Co-Founder, PalCyberSec Community | Global Gray Hat Team Admin | SIEM | SOC | OSINT & CTI | EDR | Penetration Tester | Red Team | Incident Responder | Threat Hunter</p>
+<p align="center">Muslim | SOC Team Lead | Co-founder @ PalCyberSec Community | Global Gray Hat Team Admin | SIEM | SOC | OSINT & CTI | EDR | Penetration Tester | Red Team | Incident Responder | Threat Hunter</p>
 <div id="header" align="center">
   <img src="https://github.com/user-attachments/assets/24268a88-7fea-44af-9ab1-fcec6be936db" width="450"/>
   <br>
