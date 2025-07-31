@@ -21,6 +21,8 @@
 
 *― Edward Snowden, Permanent Record*
 
+“It’s not always about certification, it’s about capabilities. Generally speaking, You won’t understand anything until you get your hands dirty.”
+
 <div align="center">
 
 | Collection                         | Type         | Link                                                                              | Status     |
