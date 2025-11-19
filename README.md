@@ -25,6 +25,8 @@
 
 <div align="center">
 
+[The Importance of OPSEC — For Tech and Non-Tech Personnel](https://telegra.ph/The-Importance-of-OPSEC--For-Tech-and-Non-Tech-Personnel-11-17)
+
 | Collection                         | Type         | Link                                                                              | Status     |
 |------------------------------------|--------------|-----------------------------------------------------------------------------------|------------|
 | Databases for Palestine            | Website      | [Link](https://databasesforpalestine.org/)                                        | Active ✅  |
