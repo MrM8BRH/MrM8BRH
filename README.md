@@ -45,6 +45,8 @@
 | Super Repository                   | GitHub (🔒)  | [Link](https://github.com/MrM8BRH/SuperRepository)                                | Archived ❌ |
 | Interview Questions                | GitHub (🔒)  | [Link](https://github.com/MrM8BRH/Interview-Questions)                            | Archived ❌ |
 
+[مقتطفات ومنوعات](https://telegra.ph/%D9%85%D9%82%D8%AA%D8%B7%D9%81%D8%A7%D8%AA-%D9%88%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA-01-16)
+
 </div>
 
 <div dir="rtl">
