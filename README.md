@@ -16,16 +16,6 @@
 
 </div>
 
-“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”
-
-*― Aaron Swartz*
-
-“Ultimately, saying that you don't care about privacy because you have nothing to hide is no different from saying you don't care about freedom of speech because you have nothing to say.”
-
-*― Edward Snowden, Permanent Record*
-
-“It’s not always about certification, it’s about capabilities. Generally speaking, You won’t understand anything until you get your hands dirty.”
-
 <div align="center">
 
 | Collection                         | Type         | Link                                                                              | Status     |
@@ -55,8 +45,6 @@
 
 ابحث، اقرأ، شاهد، اسمع، تحدث، جرب, ناقش, لخص, استنتج, ابتكر, وطور من نفسك للأفضل.
 
-العلم شيء لا يعطيك بعضه حتى تعطيه كلك وأنت إذا أعطيته كلك من إعطائه البعض على غرر.
-
 لا يزال المرء عالما ما طلب العلم, فإن ظن أنه عالم فقد جهل.
 
 قال رسول الله صلّى الله عليه وسلم:
@@ -69,3 +57,13 @@
 <div align="center">
 <img width="450" height="557" alt="image" src="https://github.com/user-attachments/assets/a6e23f22-26c3-4929-9ae1-34ec6066e5e4" />
 </div>
+
+> “It’s not always about certification, it’s about capabilities. Generally speaking, You won’t understand anything until you get your hands dirty.”
+
+> “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”
+> 
+> *― Aaron Swartz*
+
+> “Ultimately, saying that you don't care about privacy because you have nothing to hide is no different from saying you don't care about freedom of speech because you have nothing to say.”
+> 
+> *― Edward Snowden, Permanent Record*
