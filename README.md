@@ -56,6 +56,8 @@
 
 <div align="center">
 <img width="450" height="557" alt="image" src="https://github.com/user-attachments/assets/a6e23f22-26c3-4929-9ae1-34ec6066e5e4" />
+
+[Office Ergonomics](https://ergonomictrends.com/office-ergonomics/)
 </div>
 
 > “It’s not always about certification, it’s about capabilities. Generally speaking, You won’t understand anything until you get your hands dirty.”
@@ -67,3 +69,4 @@
 > “Ultimately, saying that you don't care about privacy because you have nothing to hide is no different from saying you don't care about freedom of speech because you have nothing to say.”
 > 
 > *― Edward Snowden, Permanent Record*
+
