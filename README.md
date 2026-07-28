@@ -18,22 +18,22 @@
 
 <div align="center">
 
-| Collection                         | Type         | Link                                                                              | Status     |
-|------------------------------------|--------------|-----------------------------------------------------------------------------------|------------|
-| Databases for Palestine            | Website      | [Link](https://databasesforpalestine.org/)                                        | Active ✅  |
-| Cybersecurity Resources & Learning | GitHub       | [Link](https://github.com/MrM8BRH/CRLJ)                                           | Active ✅  |
-| Super Library                      | GitHub       | [Link](https://github.com/MrM8BRH/SuperLibrary)                                   | Active ✅  |
-| Defensive Security Hub             | GitHub       | [Link](https://github.com/MrM8BRH/Defensive-Security-Hub)                         | Active ✅  |
-| Splunk                             | GitHub       | [Link](https://github.com/MrM8BRH/Splunk)                                         | Active ✅  |
-| Falcon-NextGen-SIEM                | GitHub       | [Link](https://github.com/MrM8BRH/Falcon-NextGen-SIEM)                            | Active ✅  |
-| OpenCTI                            | GitHub       | [Link](https://github.com/MrM8BRH/OpenCTI/)                                       | Active ✅  |
-| Notes                              | GitHub       | [Link](https://github.com/MrM8BRH/Notes)                                          | Active ✅  |
-| CyberSecurity Conferences          | GitHub       | [Link](https://github.com/MrM8BRH/CyberSecurity_Conferences)                      | Active ✅  |
-| IT & Cyber Security                | Start.me Page | [Link](https://start.me/p/KMqznE/it-cyber-security)                              | Active ✅  |
-| Privacy/Security/FOSS Resources    | Start.me Page | [Link](https://start.me/p/Kgj6nq/privacy-security-foss-resources)                | Active ✅  |
-| Islamic Resources                  | Start.me Page | [Link](https://start.me/p/gG7rbp/islamic-resources)                              | Active ✅  |
-| Arabic Resources                   | Start.me Page | [Link](https://start.me/p/KMqLLz/arabic)                                         | Active ✅  |
-| The Importance of OPSEC — For Tech and Non-Tech Personnel | Telegraph | [Link](https://telegra.ph/The-Importance-of-OPSEC--For-Tech-and-Non-Tech-Personnel-11-17)    | Active ✅  |
+| Collection                           | Type         | Link                                                                              | Status     |
+|--------------------------------------|--------------|-----------------------------------------------------------------------------------|------------|
+| Cybersecurity Resources & Learning   | GitHub       | [Link](https://github.com/MrM8BRH/CRLJ)                                           | Active ✅  |
+| Super Library                        | GitHub       | [Link](https://github.com/MrM8BRH/SuperLibrary)                                   | Active ✅  |
+| Defensive Security Hub               | GitHub       | [Link](https://github.com/MrM8BRH/Defensive-Security-Hub)                         | Active ✅  |
+| Fedora Workstation Hardening Toolkit | GitHub       | [Link](https://github.com/MrM8BRH/Fedora-Workstation-Hardening-Toolkit)           | Active ✅  |
+| Splunk                               | GitHub       | [Link](https://github.com/MrM8BRH/Splunk)                                         | Active ✅  |
+| Falcon-NextGen-SIEM                  | GitHub       | [Link](https://github.com/MrM8BRH/Falcon-NextGen-SIEM)                            | Active ✅  |
+| OpenCTI                              | GitHub       | [Link](https://github.com/MrM8BRH/OpenCTI/)                                       | Active ✅  |
+| Notes                                | GitHub       | [Link](https://github.com/MrM8BRH/Notes)                                          | Active ✅  |
+| CyberSecurity Conferences            | GitHub       | [Link](https://github.com/MrM8BRH/CyberSecurity_Conferences)                      | Active ✅  |
+| IT & Cyber Security                  | Start.me Page | [Link](https://start.me/p/KMqznE/it-cyber-security)                              | Active ✅  |
+| Privacy/Security/FOSS Resources      | Start.me Page | [Link](https://start.me/p/Kgj6nq/privacy-security-foss-resources)                | Active ✅  |
+| Islamic Resources                    | Start.me Page | [Link](https://start.me/p/gG7rbp/islamic-resources)                              | Active ✅  |
+| Arabic Resources                     | Start.me Page | [Link](https://start.me/p/KMqLLz/arabic)                                         | Active ✅  |
+| The Importance of OPSEC              | Telegraph | [Link](https://telegra.ph/The-Importance-of-OPSEC--For-Tech-and-Non-Tech-Personnel-11-17)    | Active ✅  |
 | مقتطفات ومنوعات | Telegraph | [Link](https://telegra.ph/%D9%85%D9%82%D8%AA%D8%B7%D9%81%D8%A7%D8%AA-%D9%88%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA-01-16)   | Active ✅  |
 | PalCyberSec Community (Arabic)     | Telegram Channel | [Link](https://t.me/palcyberseccommunity)                                     | Active ✅  |
 | Super Repository                   | GitHub (🔒)  | [Link](https://github.com/MrM8BRH/SuperRepository)                                | Archived ❌ |
